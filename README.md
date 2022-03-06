@@ -48,4 +48,11 @@ kalian hanya butuh paket git saja
   <br>
 
 ## cara menggunakannya
+![](https://github.com/Bayu12345677/Bruteforce_zip/blob/main/img/Screenshot_20220306-172603~2.png)
+
+<br><code>sesuaikan dengan lokasi file zip anda</code><br>
+
+
+![](https://github.com/Bayu12345677/Bruteforce_zip/blob/main/img/Screenshot_20220306-172658.png)
+<br>
 
