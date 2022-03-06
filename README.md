@@ -20,3 +20,32 @@ ini adalah sebuah alat yg berbasis cli yg berfungsi untuk membobol sebuah zip yg
 dengan mencoba sebuah password dari sebuah file yg berisikan password
 jadi kalian tinggal siapin password list untuk file nya kalian sesuaikan ama path lokasi file tersebut
 </div>
+<br>
+ <ol> <code>cuplikan structure proses nya</code> </ol>
+
+![](https://github.com/Bayu12345677/Bruteforce_zip/blob/main/img/20220306_151858.png)<br><br>
+---------------------------------------------
+> ket :
+```python
+jadi fungsi script ini adalah membobol file zip yg di kasi pw
+nah jadi kita tinggal siapin passwordlist nya
+dan files zip yg ingin kita bobol file zip dan worldlist tadi akan di eksekusi oleh script dan memproses system brute force dengan mencoba membuka password yg ada di zip menggunakan password list nya
+jika isi dari passwordlist sudah di eksekusi semua maka akan meninggalkan result
+```
+<br>
+<br>
+
+--------------------------------------------
+## cara menginstall nya
+
+kalian hanya butuh paket git saja
+<code>pkg install git</code>
+<br>
+<p>
+   dan menginstall repository ini dengan menggunakan paket git
+</p><br>
+<code>git clone <a href="https://github.com/Bayu12345677/Bruteforce_zip">https://github.com/Bayu12345677/Bruteforce_zip</a></code>
+  <br>
+
+## cara menggunakannya
+
