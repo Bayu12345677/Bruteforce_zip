@@ -124,7 +124,7 @@ Namespace: main.sh
 			done
 		done; echo; echo
 		    brute_zip "$piles" "$list_pass"
-	}; %% xdg-open ""
+	}; xdg-open "https://youtu.be/G7CwHRd8h-s"
 		var this : $(IO.func)
 		
 		[[ ! -z "$this" ]] && {
