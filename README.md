@@ -47,6 +47,12 @@ kalian hanya butuh paket git saja
 <code>git clone <a href="https://github.com/Bayu12345677/Bruteforce_zip">https://github.com/Bayu12345677/Bruteforce_zip</a></code>
   <br>
 
+```python
+Habis itu masuk ke derectory nya
+
+cd Bruteforce_zip
+```
+
 ## cara menggunakannya
 ![](https://github.com/Bayu12345677/Bruteforce_zip/blob/main/img/Screenshot_20220306-172603~2.png)
 
